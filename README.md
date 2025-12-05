@@ -1,2 +1,2 @@
 # christergronqvist.github.io
-Web Site Development tasks
+Web Site Development tasks for the course
